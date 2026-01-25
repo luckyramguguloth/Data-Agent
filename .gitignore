@@ -1,0 +1,22 @@
+# Environment & Dependencies
+venv/
+.env
+__pycache__/
+
+# 🔒 Security (CRITICAL: DO NOT REMOVE)
+*.key
+*.enc
+secret.key
+
+# Local Data Storage
+data/
+data/rag_store/
+*.log
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+webServerApiSettings.json
