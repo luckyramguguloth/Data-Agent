@@ -1,4 +1,4 @@
-# 🌊 AI Data Analyst 
+# 🌊 AI Data Agent 
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Gemini](https://img.shields.io/badge/AI-Gemini_2.5_Flash-8E44AD?style=for-the-badge&logo=google-gemini&logoColor=white)
